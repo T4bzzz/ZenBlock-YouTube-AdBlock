@@ -1,3 +1,5 @@
+![ZenBlock Logo](https://media.discordapp.net/attachments/1289219665913970700/1290017598406135818/icon-120x120.png?ex=66faee02&is=66f99c82&hm=5765f664a2bb8a9faa7d70d5916adb32afa1043bd7403d16a301ff386e341259&=&format=webp&quality=lossless)
+
 # Zenblock: Friendly Youtube™ Adblock
 This was posted over Reddit a few months ago, [Apparently Ad Blockers are not allowed on Youtube. Is this a new thing they've implemented?](https://www.reddit.com/r/youtube/comments/13cfdbi/apparently_ad_blockers_are_not_allowed_on_youtube/?rdt=64832) and judging by all the recent comments and posts all over [r/youtube](https://www.reddit.com/r/youtube/), this change was just rolled out on a larger scale.
 
